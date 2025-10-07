@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alwin-s-k-301793234/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlwinSK1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alwinsk03@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alwin-s-k-301793234/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlwinSK1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alwinsk03@gmail.com) <br>
 <p align="left">
 <a href="https://www.leetcode.com/u/alwinsk03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alwinsk03" height="15" width="20" /></a>
 </p>
